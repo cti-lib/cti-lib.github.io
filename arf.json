@@ -1084,7 +1084,13 @@
               "children": [
                 {
                   "name": "Incident Reports",
-                  "type": "folder"
+                  "type": "folder",
+                      "children": [
+                        {
+                          "name": "Insert more...",
+                          "type": "url"
+                        }
+                        ]
                 }
                 ,
                 {
