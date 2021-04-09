@@ -1367,7 +1367,7 @@
                 }
                 ,
                 {
-                  "name": "Threat Actor Groups & Campaign Reports",
+                  "name": "Actors/Campaign Reports",
                   "type": "folder",
                   "children": [
                     {
@@ -1379,7 +1379,7 @@
                 }
                 ,
                 {
-                  "name": "IoCs - Indicators of Compromise",
+                  "name": "IoCs",
                   "type": "folder",
                   "children": [
                     {
@@ -2042,7 +2042,7 @@
     "type": "folder",
       "children": [
         {
-          "name": "Structuring and Normalization",
+          "name": "Structuring/Normalization",
           "type": "folder",
           "children": [
             {
@@ -2186,18 +2186,21 @@
               "type": "folder",
               "children": [
                 {
-                  "name": "Pearson's Correlation Coefficient",
-                  "type": "folder"
+                  "name": "Pearson's Coefficient",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Pearson_correlation_coefficient"
                 }
                 ,
                 {
-                  "name": "Kendall Rank Correlation",
-                  "type": "folder"
+                  "name": "Kendall Rank",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient"
                 }
                 ,
                 {
-                  "name": "Spearman's Rank Correlation",
-                  "type": "folder"
+                  "name": "Spearman's Rank",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient"
                 }
               ]
 
