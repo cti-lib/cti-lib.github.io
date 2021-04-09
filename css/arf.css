@@ -8,6 +8,10 @@ body {
   background-image: url('/5.png')
 }
 
+a, a:hover, a:link, a:visited {
+  color: #fff;
+}
+
 #body {
   margin: 0 auto;
   position: relative;
