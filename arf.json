@@ -2239,28 +2239,9 @@
           "type": "folder",
           "children": [
             {
-              "name": "Strategic Analysis",
-              "type": "folder"
-            }
-            ,
-            {
-              "name": "Tactical Analysis",
-              "type": "folder"
-            }
-            ,
-            {
-              "name": "Technical Analysis",
-              "type": "folder"
-            }
-            ,
-            {
-              "name": "Operational Analysis",
-              "type": "folder"
-            }
-            ,
-            {
               "name": "Cyber KillChain",
-              "type": "folder"
+              "type": "url",
+              "url" : "https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html"
             }
           ]
         }
