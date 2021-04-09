@@ -31,7 +31,7 @@
     }    
     ,
     {
-      "name": "RSA NetWitness Platform",
+      "name": "RSA NetWitness",
       "type": "url",
       "url": "https://community.rsa.com/t5/rsa-netwitness-platform/ct-p/netwitness"
     }    
@@ -55,7 +55,7 @@
     }    
     ,
     {
-      "name": "Argos Threat Intelligence Platform",
+      "name": "Argos Threat Intelligence",
       "type": "url",
       "url": "https://cyberint.com"
     }    
@@ -312,7 +312,7 @@
                     }
                     ,
                     {
-                      "name": "Listings Data Collection Tools",
+                      "name": "Listings Collection Tools",
                       "type": "folder",
                       "children": [
                         {
@@ -445,7 +445,7 @@
                         }
                         ,
                         {
-                          "name": "Alexa",
+                          "name": "Alexa top 1M",
                           "type": "url",
                           "url" : "http://s3.amazonaws.com/alexa-static/top-1m.csv.zip"
                         }
@@ -781,31 +781,31 @@
                       "type": "folder",
                       "children": [
                         {
-                          "name": "ARIN (American Registry for Internet Numbers)",
+                          "name": "ARIN (America)",
                           "type": "url",
                           "url" : "http://www.arin.net"
                         }
                         ,
                         {
-                          "name": "Afrinic (African Network Information Center)",
+                          "name": "Afrinic (Afria)",
                           "type": "url",
                           "url" : "http://www.afrinic.net"
                         }
                         ,
                         {
-                          "name": "APNIC (Asia Pacific Network Information Center)",
+                          "name": "APNIC (Asia)",
                           "type": "url",
-                          "url" : "http://www.arin.net"
+                          "url" : "https://www.apnic.net"
                         }
                         ,
                         {
-                          "name": "RIPE NCC (Réseaux IP Européens Network Coordination Centre)",
+                          "name": "RIPE NCC (Europe)",
                           "type": "url",
                           "url" : "http://www.ripe.net"
                         }
                         ,
                         {
-                          "name": "Lacnic (Latin American and Caribbean Network Information Center)",
+                          "name": "Lacnic (Latin American)",
                           "type": "url",
                           "url" : "http://www.lacnic.net"
                         }
@@ -819,7 +819,7 @@
                   "type": "folder",
                   "children": [
                     {
-                      "name": "Foreign Defense Personnel and Advisors",
+                      "name": "Foreign Defense Staff",
                       "type": "url",
                       "url" : "http://www.arin.net"
                     }
@@ -849,7 +849,7 @@
                     }
                     ,
                     {
-                      "name": "Traveller interview or debriefing",
+                      "name": "Traveller interview",
                       "type": "url",
                       "url" : "http://www.arin.net"
                     }
@@ -857,7 +857,7 @@
                 }
                 ,
                 {
-                  "name": "Industry Association and Vertical Communities",
+                  "name": "Industry Associations",
                   "type": "folder"
                 }
                 ,
@@ -914,7 +914,7 @@
                     }
                     ,
                     {
-                      "name": "Unmanned Aerial Vehicles (UAV) Imagery",
+                      "name": "UAV Imagery",
                       "type": "url",
                       "url" : "#"
                     }
@@ -932,7 +932,7 @@
                     }
                     ,
                     {
-                      "name": "IMINT (Imagery Intelligence)",
+                      "name": "Imagery Intelligence",
                       "type": "url",
                       "url" : "#"
                     }
@@ -950,7 +950,7 @@
                     }
                     ,
                     {
-                      "name": "Measurements and signatures",
+                      "name": "Measurements/signatures",
                       "type": "url",
                       "url" : "#"
                     }
@@ -1043,7 +1043,7 @@
                 }
                 ,
                 {
-                  "name": "MASINT - Measurement and Signature Intel",
+                  "name": "MASINT - Measurement/Signature Intel",
                   "type": "folder"
                 }
                 ,
@@ -1052,23 +1052,27 @@
                   "type": "folder",
                       "children": [
                         {
-                          "name": "FIU - Financial Intelligence Unit",
-                          "type": "folder"
+                          "name": "FIU",
+                          "type": "url",
+                          "url":  "https://aml-cft.net/library/list-financial-intelligence-units-fius/"
                         }
                         ,
                         {
                           "name": "Banks",
-                          "type": "folder"
+                          "type": "url",
+                          "url":  "https://en.wikipedia.org/wiki/World_Bank"
                         }
                         ,
                         {
                           "name": "SWIFT",
-                          "type": "folder"
+                          "type": "url",
+                          "url":  "https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication"
                         }
                         ,
                         {
-                          "name": "IVTS - Informal Value Transfer Systems",
-                          "type": "folder"
+                          "name": "IVTS",
+                          "type": "url",
+                          "url":  "https://en.wikipedia.org/wiki/Informal_value_transfer_system"
                         }                      
                       ]
                 }
@@ -1097,7 +1101,7 @@
                         }
                         ,
                         {
-                          "name": "Local and Online Malware Scanning",
+                          "name": "Off/Online Malware Scanning",
                           "type": "folder"
                         }
                         ,
@@ -1114,7 +1118,7 @@
                         }
                         ,
                         {
-                          "name": "Identify Packing / Obfuscation Methods",
+                          "name": "Packing / Obfuscation",
                           "type": "folder",
                           "children": [
                             {
@@ -1138,7 +1142,7 @@
                         }
                         ,
                         {
-                          "name": "Identify File dependencies",
+                          "name": "File dependencies",
                           "type": "folder",
                           "children": [
                             {
@@ -1261,7 +1265,7 @@
                                   }
                                   ,
                                   {
-                                    "name": "VMWare vSphere Hypervisor",
+                                    "name": "vSphere Hypervisor",
                                     "type": "url",
                                     "url" : "https://www.vmware.com/products/vsphere-hypervisor.html"
                                   }
@@ -1269,7 +1273,7 @@
                               }
                               ,
                               {
-                                "name": "Screen Capture & Recording",
+                                "name": "Screen Capture",
                                 "type": "folder",
                                 "children": [
                                   {
@@ -1300,7 +1304,7 @@
                               ,
 
                               {
-                                "name": "Network & Internet Simulation Tools",
+                                "name": "Network Simulation Tools",
                                 "type": "folder",
                                 "children": [
                                   {
@@ -1402,7 +1406,7 @@
                     }
                     ,
                     {
-                      "name": "Free IoC specific sources",
+                      "name": "Free IoC sources",
                       "type": "folder",
                       "children": [
                         {
@@ -1498,7 +1502,7 @@
                     }
                     ,
                     {
-                      "name": "Online Security Related Sources",
+                      "name": "Online Security Sources",
                       "type": "folder"
                     }
                     ,
@@ -1535,13 +1539,13 @@
                   "type": "folder",
                   "children": [
                     {
-                      "name": "US Computer Emergency Response Team (US-CERT)",
+                      "name": "US-CERT",
                       "type": "url",
                       "url" : "https://us-cert.cisa.gov"
                     }
                     ,
                     {
-                      "name": "European Union Agency for Network and Information Security (ENISA)",
+                      "name": "ENISA",
                       "type": "url",
                       "url" : "https://www.enisa.europa.eu"
                     }
@@ -1565,37 +1569,37 @@
                     }
                     ,
                     {
-                      "name": "International Police Organization (Interpol)",
+                      "name": "Interpol",
                       "type": "url",
                       "url" : "https://www.interpol.int/en"
                     }
                     ,
                     {
-                      "name": "Central Intelligence Agency (CIA)",
+                      "name": "CIA",
                       "type": "url",
                       "url" : "https://www.cia.gov"
                     }
                     ,
                     {
-                      "name": "National Security Agency (NSA)",
+                      "name": "NSA",
                       "type": "url",
                       "url" : "https://www.nsa.gov"
                     }
                     ,
                     {
-                      "name": "Homeland Security (DHS)",
+                      "name": "DHS",
                       "type": "url",
                       "url" : "https://www.dhs.gov"
                     }
                     ,
                     {
-                      "name": "Central Bureau of Investigation (CBI)",
+                      "name": "CBI",
                       "type": "url",
                       "url" : "https://cbi.gov.in"
                     }
                     ,
                     {
-                      "name": "National Investigation Agency (NIA)",
+                      "name": "NIA",
                       "type": "url",
                       "url" : "https://www.nia.gov.in"
                     }
@@ -1663,7 +1667,7 @@
                     }
                     ,
                     {
-                      "name": "FISINT - Foreign Instrumentation Signals Intelligence",
+                      "name": "FISINT - Foreign Inst Signals Intelligence",
                       "type": "folder"
                     }
                   ]
@@ -1684,7 +1688,7 @@
                         }
                         ,
                         {
-                          "name": "Acoustic Sensors like Sonars",
+                          "name": "Acoustic Sensors",
                           "type": "folder"
                         }
                         ,
@@ -1904,7 +1908,7 @@
               "type": "folder",
               "children": [
                     {
-                      "name": "Unsual outbound network traffic",
+                      "name": "Unsual outbound traffic",
                       "type": "folder"
                     }
                     ,
@@ -1941,7 +1945,7 @@
                     ,
 
                     {
-                      "name": "Suspicious registry or system file changes",
+                      "name": "Suspicious registry/file changes",
                       "type": "folder"
                     }
                     ,
@@ -1952,7 +1956,7 @@
                     }
                     ,
                     {
-                      "name": "Unusual activity through privileged user account",
+                      "name": "Unusual activity through privileged account",
                       "type": "folder"
                     }
                     ,
