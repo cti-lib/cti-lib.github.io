@@ -1,1 +1,1 @@
-CTI Knowledge Library
+Threat Intelligence Knowledge Library
